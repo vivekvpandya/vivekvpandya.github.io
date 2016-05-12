@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl: http://vivekvpandya.github.io/harmony
 
 # Site live URL
 url: http://vivekvpandya.github.io
